@@ -52,7 +52,7 @@ We may update this Privacy Policy from time to time. We will notify you of mater
 If you have questions about this Privacy Policy, please contact us at:
 
 **Email:** Tessum144@gmail.com  
-**Or via our Support URL:** https://YOUR_USERNAME.github.io/wordpop-legal
+**Or via our Support URL:** https://c5Production.github.io/wordpop-legal
 
 ---
 
