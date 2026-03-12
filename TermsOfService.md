@@ -82,7 +82,7 @@ These Terms are governed by the laws of the United States, without regard to con
 For questions about these Terms, please contact us at:
 
 **Email:** Tessum144@gmail.com  
-**Support URL:** https://YOUR_USERNAME.github.io/wordpop-legal
+**Support URL:** https://c5Production.github.io/wordpop-legal
 
 ---
 
